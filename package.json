@@ -1,0 +1,14 @@
+{
+  "name": "rss-proxy",
+  "version": "1.0.0",
+  "description": "Backend proxy to serve RSS requests to front end, which would otherwise be blocked by web browser's CORS policy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
